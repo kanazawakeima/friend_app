@@ -1,0 +1,41 @@
+
+
+body {
+  margin: 0 auto;
+  background-color: #C0C0C0;
+}
+
+header {
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 2px 40px;
+    background: #000080;
+    box-sizing: border-box;
+    font-size: 40px;
+    color: #fff;
+  }
+
+.logo {
+    width: 50px;
+    margin: 0;
+}
+
+.push {
+  height: 100px;
+}
+
+
+
+footer {
+  background-color: #808080;
+  width: 100%;
+    color: #fff;
+    text-align: center;
+    height: 100px;
+    margin-bottom: -100px;
+
+    position: absolute;
+    bottom: 0;
+}
