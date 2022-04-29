@@ -22,6 +22,10 @@ header {
     margin: 0;
 }
 
+.sample img {
+    width: 100px;
+}
+
 .push {
   height: 100px;
 }
